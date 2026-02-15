@@ -178,49 +178,6 @@
       }
     }
  },
- "godzilla": {
-    "title": "Godzilla (feat. Juice WRLD)",
-    "format": "json",
-    "artist": "Eminem",
-    "album": "Music to Be Murdered By",
-    "charter": "Equinox",
-    "releaseYear": 2020,
-    "music_start_time": 3220,
-    "filesize": "4.38MB",
-    "currentVersion": "1",
-    "has_stems": "false",
-    "genre": "Rap",
-    "cover": "musictobemurderedby.png",
-    "source": "custom",
-    "key": "B♭ Minor",
-    "bpm": 166,
-    "duration": "3m 40s",
-    "ageRating": "Mature Content",
-    "is_verified": "true",
-    "is_cover": "false",
-    "difficulties": {
-      "vocals": 7,
-      "lead": 3,
-      "bass": 2,
-      "drums": 4
-    },
-    "createdAt": "2024-06-26T04:41:13.000Z",
-    "songlink": "https://song.link/us/i/1495267448",
-    "previewUrl": "godzilla.mp3",
-    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Eminem,%20Juice%20WRLD%20-%20Godzilla.zip",
-    "preview_time": 40480,
-    "preview_end_time": 63000,
-    "modalShadowColors": {
-      "default": {
-        "color1": "",
-        "color2": ""  
-      },
-      "hover": {
-        "color1": "",
-        "color2": "" 
-      }
-    }
-  },
   "threesandsevens": {
     "title": "3's & 7's",
     "format": "json",
@@ -261,40 +218,6 @@
     "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Queens%20of%20the%20Stone%20Age%20-%203's%20&%207's.zip",
     "preview_time": 92200,
     "preview_end_time": 139000
-  },
-  "dieinafire": {
-    "title": "Die In a Fire (feat. EileMonty & Orko)",
-    "artist": "The Living Tombstone",
-    "format": "json",
-    "charter": "Equinox",
-    "releaseYear": 2015,
-    "music_start_time": 0,
-    "genre": "Pop",
-    "cover": "dieinafire.png",
-    "filesize": "4.81MB",
-    "has_stems": "false",
-    "source": "custom",
-    "currentVersion": "1",
-    "key": "E♭ Minor",
-    "bpm": 110,
-    "duration": "3m 09s",
-    "ageRating": "Supervision Recommended",
-    "is_verified": "true",
-    "is_cover": "false",
-
-    "difficulties": {
-      "drums": 4,
-      "lead": 4,
-      "bass": 3,
-      "vocals": 3
-    },
-    
-    "createdAt": "2024-06-26T05:15:37.000Z",
-    "songlink": "https://song.link/us/i/989232818",
-    "previewUrl": "dieinafire.mp3",
-    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/The%20Living%20Tombstone%20-%20Die%20In%20a%20Fire.zip",
-    "preview_time": 37394,
-    "preview_end_time": 65454
   },
   "core": {
     "title": "CORE",
@@ -629,41 +552,6 @@
     "preview_time": 45012,
     "preview_end_time": 80484
   },
-  "rollingontheduck": {
-    "title": "Rolling On the Duck",
-    "artist": "NieN",
-    "album": "DJMAX Online",
-    "charter": "Eezku",
-    "releaseYear": 2005,
-    "genre": "Hardcore",
-    "cover": "rollingontheduck.png",
-    "source": "custom",
-    "music_start_time": 1183,
-    "filesize": "22.3MB",
-    "has_stems": "true",
-    "loading_phrase": "those who roll on the duck",
-    "key": "D Minor",
-    "bpm": 180,
-    "duration": "2m 20s",
-    "ageRating": "Family Friendly",
-    "is_verified": "false",
-    "is_cover": "false",
-    "currentVersion":"1",
-
-    "format": "json",
-    "difficulties": {
-      "drums": 6,
-      "lead": 7,
-      "vocals": 2,
-      "plastic-guitar": 7
-    },
-    
-    "createdAt": "2025-06-15T08:20:00.000Z",
-    "previewUrl": "rollingontheduck.mp3",
-    "download": "https://raw.githubusercontent.com/JaydenzKoci/EncoreCustoms/main/assets/charts/Rolling%20On%20the%20Duck.zip",
-    "preview_time": 1390,
-    "preview_end_time": 40000
-  },
   "becauseitsmidnite": {
     "title": "Because, It's Midnite",
     "artist": "Limozeen",
@@ -743,46 +631,6 @@
     "download": "https://raw.githubusercontent.com/Encore-Developers/songs/468f7de22527c63ad76b79a7a5abd28551e507ef/Saturn%20Candies%20-%20Sugar-Coated%20Two-Face.zip",
     "preview_time": 96000,
     "preview_end_time": 121043
-  },
-  "teardrinker": {
-    "title": "Teardrinker",
-    "artist": "Mastodon",
-    "music_start_time": 3667,
-    "album": "Hushed and Grim",
-    "charter": "Equinox",
-    "releaseYear": 2021,
-    "genre": "Metal",
-    "cover": "hushedandgrim.png",
-    "source": "custom",
-    "loading_phrase": "The drummer Brann Dailor sings all parts on this song other than the bridge and prechorus.",
-    "key": "F Major",
-    "bpm": 127,
-    "duration": "5m 23s",
-    "ageRating": "Supervision Recommended",
-    "filesize": "18.5MB",
-    "is_verified": "true",
-    "currentVersion": "1",
-    "is_cover": "false",
-
-    "doubleBass": "false",
-    "format": "json",
-    "difficulties": {
-      "drums": 5,
-      "lead": 6,
-      "bass": 3,
-      "vocals": 2,
-
-      "plastic-drums": 4,
-      "plastic-guitar": 6,
-      "plastic-bass": 3
-    },
-    
-    "createdAt": "2025-02-02T04:09:51Z",
-    "songlink": "https://song.link/us/i/1584124433",
-    "previewUrl": "teardrinker.mp3",
-    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Mastodon%20-%20Teardrinker.zip",
-    "preview_time": 110000,
-    "preview_end_time": 155000
   },
   "seashantytwo": {
     "title": "Sea Shanty 2",
@@ -865,86 +713,6 @@
     "preview_time": 46000,
     "preview_end_time": 67000
   },
-  "blueeyedboy": {
-    "title": "Blue Eyed Boy",
-    "artist": "Trophy Eyes",
-    "album": "Suicide and Sunshine",
-    "charter": "Equinox",
-    "releaseYear": 2023,
-    "filesize": "10.2MB",
-    "genre": "Pop Punk",
-    "currentVersion": "1",
-    "cover": "suicideandsunshine.png",
-    "source": "custom",
-    "loading_phrase": "The song tells a story of a friend the lead singer had and the feeling of dread to see someone suffering.",
-    "key": "D♭ Major",
-    "music_start_time": 2721,
-    "bpm": 170,
-    "duration": "3m 0s",
-    "ageRating": "Supervision Recommended",
-    "is_verified": "true",
-    "is_cover": "false",
-
-    "doubleBass": "false",
-    "format": "json",
-    "difficulties": {
-      "drums": 6,
-      "lead": 4,
-      "bass": 4,
-      "vocals": 3,
-
-      "plastic-drums": 5,
-      "plastic-guitar": 3,
-      "plastic-bass": 3
-    },
-    
-    "createdAt": "2025-07-14T15:41:14Z",
-    "songlink": "https://song.link/us/i/1675410960",
-    "previewUrl": "blueeyedboy.mp3",
-    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/d9771118b26039f416651b2e11ae95ce146da1e7/Trophy%20Eyes%20-%20Blue%20Eyed%20Boy.zip",
-    "preview_time": 107294,
-    "preview_end_time": 152470
-  },
-  "suicidepact": {
-    "title": "Suicide Pact",
-    "artist": "Trophy Eyes",
-    "album": "Chemical Miracle",
-    "currentVersion": "1",
-    "music_start_time": 4571,
-    "charter": "Equinox",
-    "releaseYear": 2016,
-    "genre": "Pop Punk",
-    "filesize": "15.1MB",
-    "cover": "chemicalmiracle.png",
-    "source": "custom",
-    "loading_phrase": "Suicide Pact is about riding along in the car and eventually crashing it and dying.",
-    "key": "D♭ Major",
-    "bpm": 208,
-    "duration": "4m 3s",
-    "ageRating": "Mature Content",
-    "is_verified": "true",
-    "is_cover": "false",
-
-    "doubleBass": "false",
-    "format": "json",
-    "difficulties": {
-      "drums": 7,
-      "lead": 4,
-      "bass": 3,
-      "vocals": 3,
-
-      "plastic-drums": 6,
-      "plastic-guitar": 3,
-      "plastic-bass": 3
-    },
-    
-    "createdAt": "2025-07-15T15:44:39Z",
-    "songlink": "https://song.link/us/i/1136408914",
-    "previewUrl": "suicidepact.mp3",
-    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/refs/heads/main/Trophy%20Eyes%20-%20Suicide%20Pact.zip",
-    "preview_time": 51314,
-    "preview_end_time": 88186
-  },
   "batcountry": {
     "title": "Bat Country",
     "fish": "🐟",
@@ -988,37 +756,6 @@
     "preview_time": 39398,
     "preview_end_time": 81670
   },
-  "bisoncharge": {
-    "title": "Bison Charge",
-    "artist": "Umeboshi Chazuke",
-    "charter": "Equinox",
-    "releaseYear": 2017,
-    "genre": "EDM",
-    "cover": "bisoncharge.png",
-    "music_start_time": 3082,
-    "source": "custom",
-    "filesize": "4.95MB",
-    "loading_phrase": "This song is in OSU.",
-    "key": "G♭ Minor",
-    "bpm": 122,
-    "duration": "1m 52s",
-    "ageRating": "Family Friendly",
-    "is_verified": "false",
-    "is_cover": "false",
-    "currentVersion": "1",
-
-    "format": "json",
-    "difficulties": {
-      "lead": 7,
-      "plastic-guitar": 7
-    },
-    
-    "createdAt": "2025-07-20T15:55:44Z",
-    "previewUrl": "bisoncharge.mp3",
-    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/e2375da7575dfda5c2a5f56024aad705d978192f/Umeboshi%20Chazuke%20-%20Bison%20Charge.zip",
-    "preview_time": 90000,
-    "preview_end_time": 110000
-  },
   "concertforyou": {
     "title": "Concert for you",
     "fish": "🐟",
@@ -1054,84 +791,6 @@
     "download": "https://raw.githubusercontent.com/JaydenzKoci/EncoreCustoms/main/assets/charts/Toby%20Fox%20-%20Concert%20for%20you.zip",
     "preview_time": 0,
     "preview_end_time": 27461
-  },
-  "krush": {
-    "title": "Krush",
-    "artist": "Pierre Blanche",
-    "album": "V LIBERTY 2 Original Soundtrack",
-    "charter": "Eezku, Rob908",
-    "releaseYear": 2024,
-    "genre": "Psy Hardcore",
-    "cover": "djmaxv-libertytwo.png",
-    "source": "custom",
-    "loading_phrase": "Woah it's an encore in here!",
-    "key": "A Minor",
-    "bpm": 160,
-    "music_start_time": 3000,
-    "duration": "2m 13s",
-    "has_stems": "true",
-    "filesize": "9.28MB",
-    "ageRating": "Family Friendly",
-    "is_verified": "true",
-    "is_cover": "false",
-    "currentVersion": "1",
-
-    "doubleBass": "false",
-    "format": "json",
-    "difficulties": {
-      "drums": 6,
-      "lead": 7,
-      "bass": 3,
-      "vocals": 3,
-
-      "plastic-drums": 6,
-      "plastic-guitar": 7,
-      "plastic-bass": 2
-    },
-    
-    "createdAt": "2025-07-27T08:09:27Z",
-    "songlink": "https://song.link/us/i/1786286855",
-    "previewUrl": "krush.mp3",
-    "download": "https://raw.githubusercontent.com/Eezku/songs/bd1e12a9de73acee8fd8b051fce1fb4b11f9196a/Krush.zip",
-    "preview_time": 50794,
-    "preview_end_time": 75000
-  },
-  "sleepwalker": {
-    "title": "Sleepwalker",
-    "artist": "Ava Max",
-    "album": "Diamonds & Dancefloors",
-    "charter": "Jaydenz",
-    "music_start_time": 5150,
-    "releaseYear": 2023,
-    "genre": "Pop",
-    "has_stems": "true",
-    "filesize": "34.6MB",
-    "cover": "diamondsanddancefloors.png",
-    "source": "custom",
-    "loading_phrase": "I'm an obsession, not just a game",
-    "key": "E Minor",
-    "bpm": 126,
-    "duration": "3m 14s",
-    "ageRating": "Family Friendly",
-    "is_verified": "false",
-    "is_cover": "false",
-    "currentVersion": "1",
-
-    "format": "json",
-    "difficulties": {
-      "drums": 4,
-      "lead": 5,
-      "bass": 4,
-      "vocals": 4
-    },
-    
-    "createdAt": "2025-07-27T21:54:13Z",
-    "songlink": "https://song.link/us/i/1634875615",
-    "previewUrl": "sleepwalker.mp3",
-    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/01d11dfbda5ff236e515d9da6f29d37e7c39e993/Ava%20Max%20-%20Sleepwalker.zip",
-    "preview_time": 38000,
-    "preview_end_time": 68000,
-    "fish": "🐟"
   },
   "alright": {
     "title": "Alright",
